@@ -2,6 +2,6 @@
 A version of Ring of Fire on MATLAB with an added feature.
 
 To play the game:
-First, download the zip file "OH.zip." Then, unzipped the file and run the Matlab code "RingOfFireGame.m"
+First, download the zip file "OH.zip." Then, unzip the file and run the Matlab code "RingOfFireGame.m"
 
-The rules are shown on the report.
+The rules of the game are shown on the report.
